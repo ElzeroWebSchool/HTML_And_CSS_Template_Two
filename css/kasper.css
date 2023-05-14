@@ -164,20 +164,12 @@ header nav ul li a:hover {
   color: var(--main-color);
   border-bottom: 1px solid var(--main-color);
 }
-header nav .form {
-  width: 40px;
-  height: 30px;
-  position: relative;
-  margin-left: 30px;
-  border-left: 1px solid white;
-}
-header nav .form i {
+header .form {
   color: white;
-  position: absolute;
+  padding: 1px 0px 1px 19px;
+  border-left: 1px solid white;
+  margin-left: 30px;
   font-size: 20px;
-  top: 50%;
-  transform: translateY(-50%);
-  right: 0;
 }
 /* End Header */
 /* Start Landing */
