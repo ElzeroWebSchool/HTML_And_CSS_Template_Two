@@ -1102,7 +1102,7 @@ header nav .form i {
 .footer {
   padding-top: calc(var(--section-padding) / 2);
   padding-bottom: calc(var(--section-padding) / 2);
-  background-image: url("../images/subscribe.jpg");
+  background-image: url("https://media.istockphoto.com/id/185274311/photo/connected-city-sunrise.jpg?s=612x612&w=0&k=20&c=YMgJyJw1ulMFZQZAhnkSyoluLSrIn3xW7peO57keEhY=");
   background-size: cover;
   position: relative;
   color: white;
